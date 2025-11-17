@@ -43,7 +43,7 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 
 ## 🧩 **Entidades do Sistema**
 
-![Der](Diagrama Poo.jpeg)
+![Der Diagrama Portal Acadêmico]("Diagrama Poo.png")
 
 
 
