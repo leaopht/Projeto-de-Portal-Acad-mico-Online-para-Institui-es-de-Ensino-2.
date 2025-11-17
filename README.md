@@ -43,7 +43,7 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 
 ## 🧩 **Entidades do Sistema**
 
-![Der Diagrama]([C:\Users\IFG\Downloads\Diagrama Poo.jpeg)](https://github.com/leaopht/Projeto-de-Portal-Acad-mico-Online-para-Institui-es-de-Ensino-2./blob/main/Diagrama%20Poo.jpeg?raw=true)
+![Der Diagrama]([C:\Users\IFG\Downloads\Diagrama Poo.jpeg])
 
 
 
