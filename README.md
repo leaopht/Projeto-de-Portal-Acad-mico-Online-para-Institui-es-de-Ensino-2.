@@ -43,7 +43,8 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 
 ## 🧩 **Entidades do Sistema**
 
-"C:\Users\IFG\Pictures\Diagrama Poo.png"
+<img width="931" height="313" alt="Diagrama Poo" src="https://github.com/user-attachments/assets/78dbbf3c-a37d-43d2-9b69-9d78c186a0c9" />
+
 
 
 
