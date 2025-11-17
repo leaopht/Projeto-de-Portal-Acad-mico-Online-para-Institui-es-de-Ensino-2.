@@ -43,7 +43,7 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 
 ## 🧩 **Entidades do Sistema**
 
-![Der Diagrama]([C:\Users\IFG\Downloads\Diagrama Poo.jpeg])
+![Der](Diagrama Poo.jpeg)
 
 
 
