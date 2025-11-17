@@ -113,14 +113,8 @@ Lista todos os eventos importantes de cada curso.
 * JavaFX
 * FXML
 * CSS para estilização
-* Banco de dados relacional (MySQL, PostgreSQL ou SQLite)
+* Banco de dados MySQL.
 * JDBC para acesso aos dados
-
----
-
-## ✔️ **Conclusão**
-
-O Portal Acadêmico em JavaFX oferece uma solução completa e organizada para instituições de ensino que desejam gerenciar materiais, cursos e interações entre alunos e administradores de forma profissional e eficiente.
 
 ---
 
