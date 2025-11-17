@@ -101,11 +101,6 @@ Mostra todos os conteúdos enviados para aquela disciplina.
 
 ---
 
-### **Calendário Acadêmico**
-
-Lista todos os eventos importantes de cada curso.
-
----
 
 ## 🛠️ **Tecnologias Utilizadas**
 
