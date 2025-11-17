@@ -1,1 +1,1 @@
-# Projeto-de-Portal-Acad-mico-Online-para-Institui-es-de-Ensino-2.
+# Projeto de Portal Acadêmico Online para Instituições de Ensino.
