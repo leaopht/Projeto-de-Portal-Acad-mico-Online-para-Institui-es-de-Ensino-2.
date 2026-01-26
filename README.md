@@ -87,12 +87,6 @@ descrição, carga horária, nível e disciplinas.
 
 ---
 
-### **Materiais da Disciplina**
-
-Mostra todos os conteúdos enviados para aquela disciplina.
-
----
-
 
 ## 🛠️ **Tecnologias Utilizadas**
 
