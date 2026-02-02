@@ -60,7 +60,7 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 
 ### **Painel do Aluno**
 
-Mostra Cursos, Disciplinas e Materiais disponível
+Mostra Cursos, Disciplinas disponível
 
 ---
 
@@ -70,7 +70,6 @@ Permite gerenciar:
 
 * Cursos
 * Disciplinas
-* Materiais 
 
 ---
 
