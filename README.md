@@ -44,8 +44,6 @@ O sistema é estruturado em **camadas**, garantindo organização e manutenção
 ## 🧩 **Entidades do Sistema**
 
 <img width="931" height="313" alt="Diagrama Poo" src="<img width="429" height="157" alt="image" src="https://github.com/user-attachments/assets/4377d145-66d4-4cc1-a777-028d51b7b817" />
-<img width="429" height="157" alt="image" src="https://github.com/user-attachments/assets/4377d145-66d4-4cc1-a777-028d51b7b817" />
-" />
 
 
 
